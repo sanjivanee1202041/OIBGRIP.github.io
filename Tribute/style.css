@@ -1,5 +1,5 @@
 HTML {
-  background-image: url("nightsky-16967_1280.jpg");
+  background-image: url("back-img.jpg");
   background-attachment: fixed;
   background-repeat: no-repeat;
   width: 100%;
@@ -53,12 +53,6 @@ video {
 
 }
 
-.title-APJ {
-  font-size: 35px;
-  color: rgb(255, 255, 255);
-  text-align: center;
-  text-shadow: 5px 5px 10px black;
-}
 
 .about {
   margin-left: 12%;
